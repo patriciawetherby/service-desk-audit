@@ -1,0 +1,259 @@
+﻿ID,Start time,Completion time,Email,Name,Type of support given/Issue type,Device type,User Type,Resolved or ticket opened?,Additional Details?
+1,11/1/22 15:31:48,11/1/22 15:31:50,ringstad@seattleu.edu,Madelyn Ringstad,,,,,
+2,11/2/22 8:12:58,11/2/22 8:46:30,psantos@seattleu.edu,Plinio Santos,"[""Campus information request""]",,,,
+3,11/2/22 8:47:15,11/2/22 8:47:21,pwetherby@seattleu.edu,Patricia Wetherby,"[""Campus information request""]",,,,
+4,11/2/22 9:34:40,11/2/22 9:35:07,ahuynh3@seattleu.edu,Anh Huynh,"[""Printing""]",,,,
+5,11/2/22 10:27:15,11/2/22 10:28:37,pwetherby@seattleu.edu,Patricia Wetherby,Elevated Rights Request,SU Owned,Staff,Ticket opened in Jira ,Student employee was following up on ISD-53158. She needs local admin rights on her computer. The ticket was updated since her manager needs to fill out a form to have an EA account created for her before admin rights can be granted.
+6,11/2/22 10:39:54,11/2/22 10:40:18,pwetherby@seattleu.edu,Patricia Wetherby,Pickup,N/A,Staff,Resolved,Picking up a purchase order
+7,11/2/22 10:48:20,11/2/22 10:48:23,pwetherby@seattleu.edu,Patricia Wetherby,Printing,Personal,Student,Resolved,
+8,11/2/22 10:55:40,11/2/22 10:58:01,pwetherby@seattleu.edu,Patricia Wetherby,Password support/MFA,N/A,Student,Resolved,Compromised account remediation
+9,11/2/22 11:07:39,11/2/22 11:14:34,pwetherby@seattleu.edu,Patricia Wetherby,Hardware,SU Owned,Student,Resolved,Ticket previously created: ISD-53256 and updated
+10,11/2/22 11:34:01,11/2/22 11:37:23,pwetherby@seattleu.edu,Patricia Wetherby,Software,SU Owned,Faculty,Resolved,User was able to figure out issue at desk
+11,11/2/22 12:33:09,11/2/22 12:33:29,skemp@seattleu.edu,Samuel Kemp,Password support/MFA,SU Owned,Faculty,Resolved,
+12,11/2/22 12:33:34,11/2/22 12:34:40,skemp@seattleu.edu,Samuel Kemp,Software,SU Owned,Faculty,Resolved,
+13,11/2/22 12:34:41,11/2/22 12:36:10,skemp@seattleu.edu,Samuel Kemp,Software,SU Owned,Student,Ticket opened in Jira ,
+14,11/2/22 13:14:12,11/2/22 13:54:33,se-mcruz3@seattleu.edu,Meryll SE-Cruz,"General library question (ex: where something is, how do I check out a book, etc.)",Personal,Student,Resolved,
+15,11/2/22 13:54:36,11/2/22 13:54:58,se-mcruz3@seattleu.edu,Meryll SE-Cruz,"General library question (ex: where something is, how do I check out a book, etc.)",Personal,Student,Resolved,Asked if we loaned Macbook air chargers
+16,11/2/22 13:55:01,11/2/22 14:10:53,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Printing,Personal,Student,Resolved,
+17,11/2/22 14:30:48,11/2/22 14:31:17,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Software,SU Owned,Faculty,Resolved,
+18,11/2/22 14:41:35,11/2/22 14:41:43,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Printing,Personal,Student,Resolved,
+19,11/2/22 14:41:44,11/2/22 14:41:59,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Campus information request,Personal,Student,Resolved,
+20,11/2/22 14:42:01,11/2/22 14:42:10,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Password support/MFA,SU Owned,Faculty,Resolved,
+21,11/2/22 14:47:45,11/2/22 14:47:55,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Printing,SU Owned,Faculty,Resolved,
+22,11/2/22 15:07:37,11/2/22 15:07:48,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Hardware,SU Owned,Student,Resolved,
+23,11/2/22 16:07:51,11/2/22 16:08:03,pwetherby@seattleu.edu,Patricia Wetherby,Software,Personal,Student,Resolved,
+24,11/2/22 16:38:38,11/2/22 16:39:07,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Software,Personal,Student,Resolved,GMetrix software
+25,11/2/22 17:01:51,11/2/22 17:02:33,skemp@seattleu.edu,Samuel Kemp,Password support/MFA,SU Owned,Student,Resolved,EA account setup
+26,11/2/22 16:42:48,11/2/22 17:27:54,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Printing,SU Owned,Faculty,Resolved,
+27,11/3/22 8:29:18,11/3/22 8:30:17,psantos@seattleu.edu,Plinio Santos,Software,SU Owned,Faculty,Resolved,Requested to Install Citrix to access database(Redge)
+28,11/3/22 11:14:20,11/3/22 11:14:28,privamuller@seattleu.edu,Anna Muller,Printing,N/A,Student,Resolved,"Needed to know how to add money to printing budget
+"
+29,11/3/22 11:26:40,11/3/22 11:53:01,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Password support/MFA,SU Owned,Student,Resolved,
+30,11/3/22 12:30:52,11/3/22 12:31:08,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+31,11/3/22 12:31:11,11/3/22 13:03:52,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,device pick up ,SU Owned,,Resolved,
+32,11/3/22 13:04:04,11/3/22 13:40:07,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Compromised Account Remediation,N/A,Student,Resolved,
+33,11/3/22 13:37:40,11/3/22 14:05:39,se-ektjo@seattleu.edu,Ericson SE-Katjo,Software,SU Owned,Staff,Resolved,
+34,11/4/22 10:04:07,11/4/22 10:05:39,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Software,Personal,Student,Resolved,"User's emails were automatically going to deleted emails, so I changed the rules and moved the items to inbox"
+35,11/4/22 10:05:49,11/4/22 10:06:58,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Software,SU Owned,Faculty,Resolved,User's OneNote was having troubles syncing. Turns out he had multiple instances of the app opened.
+36,11/4/22 10:10:20,11/4/22 10:10:51,se-amuller@seattleu.edu,Anna SE-Muller,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,,"reserved a photography kit, wrong service desk"
+37,11/4/22 10:10:54,11/4/22 10:41:43,se-amuller@seattleu.edu,Anna SE-Muller,Printing,SU Owned,Staff,Ticket opened in Jira ,ticket 53455
+38,11/4/22 10:41:02,11/4/22 10:45:46,se-amuller@seattleu.edu,Anna SE-Muller,Hardware,SU Owned,Staff,Resolved,"Picked up speakers, ticket "
+39,11/4/22 10:51:52,11/4/22 10:52:12,se-amuller@seattleu.edu,Anna SE-Muller,Password support/MFA,Personal,Student,Ticket opened in Jira ,
+40,11/4/22 10:52:15,11/4/22 10:52:24,se-amuller@seattleu.edu,Anna SE-Muller,wifi,Personal,Student,Resolved,
+41,11/4/22 11:20:39,11/4/22 11:26:12,se-amuller@seattleu.edu,Anna SE-Muller,Software,Personal,Student,Resolved,two conflicting accounts prevented forms.seattleu.edu from working
+42,11/4/22 12:05:45,11/4/22 12:06:33,se-amuller@seattleu.edu,Anna SE-Muller,"General library question (ex: where something is, how do I check out a book, etc.)",Personal,Student,Resolved,
+43,11/4/22 13:53:26,11/4/22 13:53:49,se-nmai1@seattleu.edu,Cole SE-Mai,Printing,Personal,Student,Resolved,Launch papercut client
+44,11/4/22 13:54:53,11/4/22 14:32:48,se-nmai1@seattleu.edu,Cole SE-Mai,Printing,Personal,Student,Resolved,Laptop was not connecting to print servers
+45,11/4/22 14:32:54,11/4/22 14:42:16,se-nmai1@seattleu.edu,Cole SE-Mai,Account Issue,Personal,Student,Ticket opened in Jira ,"User is blocked from sending emails, despite not being blocked in the system."
+46,11/4/22 14:42:21,11/4/22 15:19:28,se-nmai1@seattleu.edu,Cole SE-Mai,Hardware,SU Owned,Student,Resolved,Monitor wasn't displaying
+47,11/4/22 16:10:25,11/4/22 16:47:25,se-nmorris@seattleu.edu,Norah SE-Morris,"General library question (ex: where something is, how do I check out a book, etc.)",SU Owned,Student,Resolved,
+48,11/4/22 16:47:29,11/4/22 16:49:08,se-nmorris@seattleu.edu,Norah SE-Morris,su-secure wifi issues,SU Owned,Faculty,Resolved,
+49,11/7/22 8:55:22,11/7/22 8:56:14,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Hardware,SU Owned,Faculty,Resolved,Came to drop off loaner (15124) and pick up laptop. Ticket number related to this is 53445
+50,11/7/22 12:37:44,11/7/22 12:38:11,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Software,SU Owned,Staff,Ticket opened in Jira ,
+51,11/7/22 12:42:56,11/7/22 12:43:11,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Printing,Personal,Student,Resolved,
+52,11/7/22 14:07:21,11/7/22 14:07:44,se-rbayani-dahilig@seattleu.edu,Rica Jane SE-Bayani-Dahilig,WiFi,SU Owned,Faculty,Resolved,
+53,11/7/22 14:22:01,11/7/22 14:27:38,jcortez1@seattleu.edu,Janelle Cortez,advice ,Personal,Student,Resolved,https://seattleuniversity.atlassian.net/browse/ISD-53582
+54,11/7/22 14:09:58,11/7/22 15:12:08,se-qbui@seattleu.edu,Quyen SE-Bui,Campus Card,N/A,Student,Resolved,
+55,11/7/22 15:12:11,11/7/22 15:13:26,se-qbui@seattleu.edu,Quyen SE-Bui,Printing,Personal,Faculty,Ticket opened in Jira ,User: Topel John
+56,11/7/22 15:43:54,11/7/22 15:44:34,se-rbayani-dahilig@seattleu.edu,Rica Jane SE-Bayani-Dahilig,Password support/MFA,Personal,Student,Resolved,
+57,11/7/22 15:13:35,11/7/22 15:46:33,jcortez1@seattleu.edu,Janelle Cortez,not receiving email,Personal,Student,Ticket opened in Jira ,
+58,11/7/22 15:46:54,11/7/22 15:54:02,jcortez1@seattleu.edu,Janelle Cortez,campus card,N/A,Student,Ticket opened in Jira ,
+59,11/8/22 10:17:55,11/8/22 10:19:37,se-ektjo@seattleu.edu,Ericson SE-Katjo,Client asking about her Phone Inbox asking for the change in password,Personal,Other,Resolved,
+60,11/8/22 10:41:50,11/8/22 10:42:39,se-qbui@seattleu.edu,Quyen SE-Bui,Software,SU Owned,Staff,Resolved,
+61,11/8/22 10:42:43,11/8/22 11:08:48,se-qbui@seattleu.edu,Quyen SE-Bui,Update Audio DRIVER,SU Owned,Staff,Resolved,
+62,11/8/22 11:08:52,11/8/22 11:09:10,se-qbui@seattleu.edu,Quyen SE-Bui,Printing,Personal,Faculty,Resolved,
+63,11/8/22 12:01:58,11/8/22 12:02:49,se-qbui@seattleu.edu,Quyen SE-Bui,Password support/MFA,Personal,Other,Resolved,"Resolved Issue with individual by resetting password, changing authentication method and setting up MFA."
+64,11/8/22 10:58:23,11/8/22 12:51:47,jcortez1@seattleu.edu,Janelle Cortez,Password support/MFA,Personal,Student,Resolved,
+65,11/8/22 12:51:52,11/8/22 13:17:49,jcortez1@seattleu.edu,Janelle Cortez,Software,SU Owned,Staff,Resolved,
+66,11/8/22 13:17:54,11/8/22 14:05:46,jcortez1@seattleu.edu,Janelle Cortez,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Faculty,Resolved,
+67,11/8/22 14:07:04,11/8/22 14:31:48,jcortez1@seattleu.edu,Janelle Cortez,,N/A,Other,Resolved,
+68,11/8/22 14:31:54,11/8/22 14:57:54,jcortez1@seattleu.edu,Janelle Cortez,Hardware,SU Owned,Staff,Resolved,
+69,11/8/22 13:33:59,11/8/22 15:09:14,se-nmorris@seattleu.edu,Norah SE-Morris,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+70,11/8/22 15:46:22,11/8/22 15:46:33,se-nmorris@seattleu.edu,Norah SE-Morris,Campus information request,N/A,Other,Resolved,
+71,11/8/22 14:57:59,11/8/22 16:49:57,jcortez1@seattleu.edu,Janelle Cortez,Password support/MFA,Personal,Student,Resolved,
+72,11/8/22 17:13:02,11/8/22 17:13:32,skemp@seattleu.edu,Samuel Kemp,network,Personal,Student,Ticket opened in Jira ,
+73,11/8/22 17:36:34,11/8/22 17:36:48,se-nmorris@seattleu.edu,Norah SE-Morris,Printing,Personal,Student,Resolved,
+74,11/8/22 17:37:29,11/8/22 17:38:05,skemp@seattleu.edu,Samuel Kemp,Password support/MFA,Personal,Student,Resolved,
+75,11/8/22 17:51:43,11/8/22 17:52:01,skemp@seattleu.edu,Samuel Kemp,"General library question (ex: where something is, how do I check out a book, etc.)",Personal,Student,Resolved,
+76,11/9/22 9:55:31,11/9/22 9:55:42,privpatricia@seattleu.edu,Patricia Wetherby,Password support/MFA,Personal,Student,Resolved,
+77,11/9/22 10:08:46,11/9/22 10:09:05,pwetherby@seattleu.edu,Patricia Wetherby,Pickup,SU Owned,Student,Resolved,Picking up Order
+78,11/9/22 11:24:42,11/9/22 11:24:55,pwetherby@seattleu.edu,Patricia Wetherby,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,Looking for printer
+79,11/9/22 11:55:35,11/9/22 11:57:31,pwetherby@seattleu.edu,Patricia Wetherby,"General library question (ex: where something is, how do I check out a book, etc.)",SU Owned,Student,Resolved,How to save to OneDrive
+80,11/9/22 12:09:05,11/9/22 12:09:15,se-qbui@seattleu.edu,Quyen SE-Bui,Password support/MFA,N/A,Student,Resolved,
+81,11/9/22 12:48:03,11/9/22 12:50:18,pwetherby@seattleu.edu,Patricia Wetherby,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Other,Resolved,
+82,11/9/22 13:14:43,11/9/22 13:58:29,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Password support/MFA,Personal,Student,Resolved,
+83,11/9/22 14:11:10,11/9/22 14:28:23,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Wifi,SU Owned,Faculty,Resolved,Needed driver update in order to connect to Wifi
+84,11/9/22 14:54:53,11/9/22 15:06:17,se-mcruz3@seattleu.edu,Meryll SE-Cruz,CRP/Device Set up,N/A,Faculty,Resolved,
+85,11/9/22 15:06:19,11/9/22 15:06:33,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Email,SU Owned,Faculty,Ticket opened in Jira ,
+86,11/9/22 15:06:34,11/9/22 15:06:40,se-mcruz3@seattleu.edu,Meryll SE-Cruz,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Faculty,Resolved,
+87,11/9/22 15:28:02,11/9/22 15:28:26,se-mcruz3@seattleu.edu,Meryll SE-Cruz,CRP/Device Set up,SU Owned,Faculty,Resolved,Tech purchasing inquiry
+88,11/9/22 16:08:31,11/9/22 16:09:13,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Password support/MFA,SU Owned,Faculty,Resolved,
+89,11/10/22 8:03:43,11/10/22 9:30:34,se-amuller@seattleu.edu,Anna SE-Muller,Hardware,SU Owned,Staff,Resolved,Camera shutter was closed
+90,11/10/22 12:01:06,11/10/22 12:01:21,se-amuller@seattleu.edu,Anna SE-Muller,Software,Personal,Student,Resolved,update macbook
+91,11/10/22 11:15:54,11/10/22 13:02:05,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Password support/MFA,N/A,Student,Resolved,
+92,11/10/22 13:02:12,11/10/22 13:33:08,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Software,SU Owned,,Resolved,
+93,11/10/22 14:51:14,11/10/22 14:52:25,se-ektjo@seattleu.edu,Ericson SE-Katjo,Unable to send and receive emails,N/A,Student,Resolved,
+94,11/10/22 14:51:32,11/10/22 15:37:36,se-qbui@seattleu.edu,Quyen SE-Bui,Printing,N/A,Student,Resolved,
+95,11/14/22 8:26:58,11/14/22 8:29:07,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,Student asked if they were any Mac devices in the library. She was directed to the library circulation desk and they assisted her.
+96,11/14/22 10:22:01,11/14/22 10:22:33,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Software,Personal,Student,Resolved,Student forgot the password on her mac. We had to reset it through recovery mode.
+97,11/14/22 10:22:35,11/14/22 10:23:22,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Software,N/A,Student,Resolved,Student was trying to connect to the SU print queue but was unable to so we instead had him use the MPS web.
+98,11/14/22 9:53:08,11/14/22 10:40:10,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Software,Personal,Student,Resolved,User needed global protect for their personal device.
+99,11/14/22 12:17:32,11/14/22 12:18:59,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,CRP/Device Set up,SU Owned,Staff,Resolved,Anthony Goodwillie came to pick up device.
+100,11/14/22 12:30:42,11/14/22 12:31:35,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Password support/MFA,Personal,Student,Resolved,User lost his phone and needed help with MFA. We had him get an iPad from the library and used it as a temp device for authentication.
+101,11/14/22 12:47:27,11/14/22 12:48:24,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Password support/MFA,Personal,Student,Resolved,User needed their MFA reset because it is a different phone number. I had them install and setup Microsoft Authenticator
+102,11/14/22 13:34:55,11/14/22 13:35:13,se-rbayani-dahilig@seattleu.edu,Rica Jane SE-Bayani-Dahilig,Asked for a stapler,N/A,Student,Resolved,
+103,11/14/22 14:29:40,11/14/22 14:31:27,se-qbui@seattleu.edu,Quyen SE-Bui,Printing,N/A,Student,Resolved,
+104,11/14/22 16:34:37,11/14/22 16:34:58,se-qbui@seattleu.edu,Quyen SE-Bui,Adding fund to Campus Card,N/A,Student,Resolved,
+105,11/15/22 9:19:43,11/15/22 9:20:14,se-ektjo@seattleu.edu,Ericson SE-Katjo,Laptop pickup and drop off,SU Owned,Staff,Resolved,
+106,11/14/22 8:41:32,11/15/22 13:29:35,jcortez1@seattleu.edu,Janelle Cortez,Software,SU Owned,Faculty,Resolved,
+107,11/15/22 13:30:07,11/15/22 14:59:16,se-nmorris@seattleu.edu,Norah SE-Morris,,N/A,Student,Resolved,
+108,11/15/22 14:58:36,11/15/22 14:59:24,jcortez1@seattleu.edu,Janelle Cortez,Software,SU Owned,Staff,Resolved,
+109,11/15/22 15:06:33,11/15/22 15:11:53,se-nmorris@seattleu.edu,Norah SE-Morris,Hardware,SU Owned,Faculty,Ticket opened in Jira ,
+110,11/15/22 15:32:25,11/15/22 15:32:34,jcortez1@seattleu.edu,Janelle Cortez,Printing,SU Owned,Student,Resolved,
+111,11/15/22 15:48:42,11/15/22 15:50:25,se-nmorris@seattleu.edu,Norah SE-Morris,Software,SU Owned,Staff,Ticket opened in Jira ,
+112,11/15/22 16:20:29,11/15/22 16:20:46,se-nmorris@seattleu.edu,Norah SE-Morris,,N/A,Student,Resolved,
+113,11/15/22 16:16:11,11/15/22 16:28:10,skemp@seattleu.edu,Samuel Kemp,,Personal,Student,Resolved,
+114,11/15/22 17:01:52,11/15/22 17:02:26,se-nmorris@seattleu.edu,Norah SE-Morris,Campus information request,N/A,Student,Resolved,
+115,11/15/22 17:52:20,11/15/22 17:52:38,se-nmorris@seattleu.edu,Norah SE-Morris,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+116,11/16/22 8:39:14,11/16/22 9:02:28,pwetherby@seattleu.edu,Patricia Wetherby,Hardware,SU Owned,Staff,Ticket opened in Jira ,
+117,11/16/22 9:29:29,11/16/22 9:29:40,pwetherby@seattleu.edu,Patricia Wetherby,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,Looking for water fountain
+118,11/16/22 10:17:26,11/16/22 10:17:42,pwetherby@seattleu.edu,Patricia Wetherby,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Staff,Resolved,"Looking for photos
+"
+119,11/16/22 10:17:43,11/16/22 10:17:55,pwetherby@seattleu.edu,Patricia Wetherby,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Staff,Resolved,Looking for headshot location
+120,11/16/22 10:17:56,11/16/22 10:18:10,pwetherby@seattleu.edu,Patricia Wetherby,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Staff,Resolved,"Looking for where photos are taken
+"
+121,11/16/22 10:18:11,11/16/22 10:18:34,pwetherby@seattleu.edu,Patricia Wetherby,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Staff,Resolved,Looking for Wyckott Room for photos
+122,11/16/22 11:05:25,11/16/22 11:06:09,se-qbui@seattleu.edu,Quyen SE-Bui,Headset ,N/A,Student,Resolved,
+123,11/16/22 11:06:13,11/16/22 11:07:04,se-qbui@seattleu.edu,Quyen SE-Bui,Photobooth in Wylock ,N/A,Faculty,Resolved,
+124,11/16/22 11:07:07,11/16/22 11:07:57,se-qbui@seattleu.edu,Quyen SE-Bui,Software,SU Owned,Student,Ticket opened in Jira ,ISD-54147
+125,11/16/22 12:11:34,11/16/22 12:12:10,pwetherby@seattleu.edu,Patricia Wetherby,Pick up Order,N/A,Staff,Resolved,
+126,11/16/22 12:27:45,11/16/22 12:27:56,skemp@seattleu.edu,Samuel Kemp,,N/A,Student,Resolved,
+127,11/16/22 12:27:59,11/16/22 12:54:55,skemp@seattleu.edu,Samuel Kemp,Campus information request,N/A,Student,Resolved,
+128,11/16/22 14:08:43,11/16/22 14:09:01,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Wifi,Personal,Student,Ticket opened in Jira ,
+129,11/16/22 14:08:47,11/16/22 14:09:16,pwetherby@seattleu.edu,Patricia Wetherby,Software,SU Owned,Staff,Ticket opened in Jira ,Mersive Software
+130,11/16/22 14:42:50,11/16/22 14:43:29,pwetherby@seattleu.edu,Patricia Wetherby,Hardware,SU Owned,Student,Resolved,Mac was not able to restart without an admin password. We logged out of administrator account and now restarts are working 
+131,11/16/22 14:53:24,11/16/22 14:53:38,pwetherby@seattleu.edu,Patricia Wetherby,Pickup,SU Owned,Staff,Resolved,
+132,11/16/22 14:16:56,11/16/22 14:57:46,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Canvas,Personal,Student,Resolved,
+133,11/17/22 15:48:22,11/17/22 15:48:34,se-qbui@seattleu.edu,Quyen SE-Bui,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+134,11/17/22 15:48:35,11/17/22 15:49:02,se-qbui@seattleu.edu,Quyen SE-Bui,Hardware,Personal,Student,Resolved,
+135,11/17/22 15:49:04,11/17/22 15:53:26,se-qbui@seattleu.edu,Quyen SE-Bui,wifi,SU Owned,Student,Resolved,
+136,11/17/22 15:53:28,11/17/22 15:54:16,se-qbui@seattleu.edu,Quyen SE-Bui,Software,SU Owned,Staff,Resolved,User needs Admin account to install vpn
+137,11/18/22 8:37:09,11/18/22 8:37:58,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Software,Personal,Student,Resolved,Lost file after word document refreshed.
+138,11/18/22 8:49:24,11/18/22 8:50:28,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Hardware,N/A,Faculty,Resolved,User came to check for a device he ordered.
+139,11/18/22 10:54:38,11/18/22 10:54:57,se-amuller@seattleu.edu,Anna SE-Muller,Printing,Personal,Student,Resolved,needed help printing from ipad
+140,11/18/22 12:25:10,11/18/22 12:25:37,se-amuller@seattleu.edu,Anna SE-Muller,Hardware,Personal,Student,Resolved,"laptop wouldn't turn on, and then it just did"
+141,11/18/22 13:04:54,11/18/22 13:25:38,se-nmai1@seattleu.edu,Cole SE-Mai,Software,SU Owned,Student,Ticket opened in Jira ,getting a 403 error in chrome
+142,11/21/22 8:06:04,11/21/22 9:04:07,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Password support/MFA,N/A,Student,Resolved,User's account was compromised
+143,11/21/22 10:54:09,11/21/22 10:54:26,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Password support/MFA,N/A,Student,Resolved,User's account is compromised
+144,11/21/22 11:38:36,11/21/22 11:39:51,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Software,SU Owned,Other,Resolved,Vendor needed to learn how to connect to vpn and use papercut
+145,11/21/22 13:05:59,11/21/22 13:06:18,se-rbayani-dahilig@seattleu.edu,Rica Jane SE-Bayani-Dahilig,Requested ruler,N/A,Student,Resolved,
+146,11/21/22 13:30:25,11/21/22 16:57:22,se-qbui@seattleu.edu,Quyen SE-Bui,Printing,SU Owned,Student,Resolved,
+147,11/22/22 11:26:46,11/22/22 11:27:18,se-qbui@seattleu.edu,Quyen SE-Bui,Printing,Personal,Student,Ticket opened in Jira ,Can't add fund into eAccount
+148,11/22/22 13:07:08,11/22/22 13:07:20,se-mcruz3@seattleu.edu,Meryll SE-Cruz,CRP/Device Set up,SU Owned,Faculty,Resolved,
+149,11/22/22 13:10:48,11/22/22 13:10:55,se-mcruz3@seattleu.edu,Meryll SE-Cruz,CRP/Device Set up,SU Owned,Faculty,Resolved,
+150,11/16/22 10:12:09,11/22/22 13:18:08,jcortez1@seattleu.edu,Janelle Cortez,Password support/MFA,SU Owned,Staff,Resolved,
+151,11/22/22 13:23:53,11/22/22 13:24:00,se-mcruz3@seattleu.edu,Meryll SE-Cruz,CRP/Device Set up,SU Owned,Faculty,Resolved,
+152,11/22/22 13:47:43,11/22/22 13:47:50,se-mcruz3@seattleu.edu,Meryll SE-Cruz,CRP/Device Set up,SU Owned,Faculty,Resolved,
+153,11/22/22 14:21:23,11/22/22 14:21:33,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Software,Personal,Student,Resolved,
+154,11/22/22 13:18:12,11/22/22 14:41:25,jcortez1@seattleu.edu,Janelle Cortez,badge access,N/A,Other,Resolved,
+155,11/22/22 15:03:16,11/22/22 15:03:32,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Campus information request,N/A,Student,Resolved,
+156,11/22/22 17:17:19,11/22/22 17:17:28,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Password support/MFA,Personal,Student,Resolved,
+157,11/22/22 17:18:31,11/22/22 17:19:01,se-qbui@seattleu.edu,Quyen SE-Bui,Password support/MFA,N/A,Student,Resolved,Change phone number for MFA 
+158,11/23/22 11:25:34,11/23/22 11:25:37,se-rbayani-dahilig@seattleu.edu,Rica Jane SE-Bayani-Dahilig,T-Drive,N/A,Staff,Ticket opened in Jira ,
+159,11/23/22 11:25:41,11/23/22 11:25:51,se-rbayani-dahilig@seattleu.edu,Rica Jane SE-Bayani-Dahilig,Campus information request,N/A,Staff,Resolved,
+160,11/22/22 14:41:28,11/28/22 9:51:01,jcortez1@seattleu.edu,Janelle Cortez,Hardware,SU Owned,Faculty,Resolved,
+161,11/28/22 10:24:43,11/28/22 10:25:06,ahuynh3@seattleu.edu,Anh Huynh,Software,Personal,Student,Resolved,
+162,11/28/22 10:25:08,11/28/22 10:48:14,ahuynh3@seattleu.edu,Anh Huynh,Software,SU Owned,Staff,Resolved,
+163,11/28/22 13:57:54,11/28/22 13:58:08,se-rbayani-dahilig@seattleu.edu,Rica Jane SE-Bayani-Dahilig,Wifi,SU Owned,Faculty,Resolved,
+164,11/28/22 14:58:30,11/28/22 15:35:08,se-rbayani-dahilig@seattleu.edu,Rica Jane SE-Bayani-Dahilig,Printing,Personal,Student,Resolved,
+165,11/28/22 16:28:52,11/28/22 16:29:05,se-rbayani-dahilig@seattleu.edu,Rica Jane SE-Bayani-Dahilig,Wifi Setup,Personal,Student,Resolved,
+166,11/28/22 16:29:47,11/28/22 16:43:50,se-rbayani-dahilig@seattleu.edu,Rica Jane SE-Bayani-Dahilig,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+167,11/29/22 13:40:19,11/29/22 13:40:27,se-nmorris@seattleu.edu,Norah SE-Morris,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+168,11/29/22 17:31:42,11/29/22 17:32:04,se-nmorris@seattleu.edu,Norah SE-Morris,returning laptop,SU Owned,Student,Resolved,
+169,11/30/22 10:42:07,11/30/22 10:51:35,se-qbui@seattleu.edu,Quyen SE-Bui,Software,SU Owned,Staff,Resolved,Client has already opened a ticket (ISD-54474)
+170,11/30/22 11:10:06,11/30/22 11:10:36,privpatricia@seattleu.edu,Patricia Wetherby,Pick up,SU Owned,Staff,Ticket opened in Jira ,Item Ready but not delivered to Service Desk yet
+171,11/30/22 13:00:30,11/30/22 13:59:53,se-mcruz3@seattleu.edu,Meryll SE-Cruz,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+172,11/30/22 13:59:57,11/30/22 14:00:29,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Software,Personal,Student,Ticket opened in Jira ,
+173,11/30/22 14:03:20,11/30/22 14:03:28,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Software,Personal,Student,Resolved,
+174,11/30/22 14:10:04,11/30/22 14:10:28,pwetherby@seattleu.edu,Patricia Wetherby,Software,Personal,Student,Resolved,"Other student deleted their final essay, needed to be recovered in OneDrive"
+175,11/30/22 14:12:23,11/30/22 14:12:32,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Software,Personal,Student,Resolved,
+176,11/30/22 14:58:08,11/30/22 14:58:30,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Printing,SU Owned,Faculty,Resolved,
+177,11/30/22 15:06:58,11/30/22 15:32:00,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Software,Personal,Student,Resolved,
+178,11/30/22 15:51:06,11/30/22 16:04:49,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Software,Personal,Faculty,Resolved,
+179,11/30/22 16:43:45,11/30/22 16:44:05,skemp@seattleu.edu,Samuel Kemp,Hardware,SU Owned,Staff,Resolved,
+180,12/1/22 10:46:13,12/1/22 10:55:36,privamuller@seattleu.edu,Anna Muller,adding money to campus card,N/A,Student,Resolved,
+181,12/1/22 15:43:46,12/1/22 15:43:56,se-qbui@seattleu.edu,Quyen SE-Bui,wifi,Personal,Student,Resolved,
+182,12/1/22 15:50:00,12/1/22 15:50:07,se-qbui@seattleu.edu,Quyen SE-Bui,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+183,12/1/22 15:50:08,12/1/22 15:50:18,se-qbui@seattleu.edu,Quyen SE-Bui,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+184,12/2/22 10:47:17,12/2/22 10:48:06,se-amuller@seattleu.edu,Anna SE-Muller,Ticket followup,N/A,Staff,Resolved,ISD-54380
+185,12/2/22 13:54:28,12/2/22 14:31:52,se-qbui@seattleu.edu,Quyen SE-Bui,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+186,12/2/22 16:45:24,12/2/22 16:45:27,se-qbui@seattleu.edu,Quyen SE-Bui,Password support/MFA,Personal,Other,Resolved,
+187,12/5/22 8:43:30,12/5/22 10:13:40,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Hardware,SU Owned,Faculty,Resolved,User came to borrow a headphone
+188,12/5/22 12:20:57,12/5/22 12:21:11,se-rbayani-dahilig@seattleu.edu,Rica Jane SE-Bayani-Dahilig,Unlock eAccount,Personal,Student,Resolved,
+189,11/28/22 9:51:07,12/5/22 13:24:52,jcortez1@seattleu.edu,Janelle Cortez,Software,SU Owned,Faculty,Resolved,
+190,12/5/22 13:24:56,12/5/22 14:02:53,jcortez1@seattleu.edu,Janelle Cortez,Software,SU Owned,Staff,Resolved,
+191,12/5/22 15:49:07,12/6/22 8:44:35,jcortez1@seattleu.edu,Janelle Cortez,"General library question (ex: where something is, how do I check out a book, etc.)",Personal,Other,Resolved,
+192,12/6/22 8:49:38,12/6/22 9:18:04,jcortez1@seattleu.edu,Janelle Cortez,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+193,12/6/22 9:21:37,12/6/22 9:22:35,se-qbui@seattleu.edu,Quyen SE-Bui,Printing,N/A,Student,Resolved,
+194,12/6/22 9:20:26,12/6/22 10:04:41,jcortez1@seattleu.edu,Janelle Cortez,Hardware,N/A,Faculty,Resolved,
+195,12/6/22 13:49:10,12/6/22 13:49:46,se-nmorris@seattleu.edu,Norah SE-Morris,Printing,N/A,Student,Resolved,
+196,12/6/22 13:49:50,12/6/22 13:50:00,se-nmorris@seattleu.edu,Norah SE-Morris,,N/A,Student,Resolved,
+197,12/6/22 14:07:02,12/6/22 14:07:12,se-nmorris@seattleu.edu,Norah SE-Morris,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+198,12/6/22 15:06:04,12/6/22 15:06:25,se-nmorris@seattleu.edu,Norah SE-Morris,adobe pro,SU Owned,Staff,Resolved,
+199,12/6/22 15:26:11,12/6/22 15:26:20,se-nmorris@seattleu.edu,Norah SE-Morris,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+200,12/6/22 15:42:51,12/6/22 15:43:04,se-nmorris@seattleu.edu,Norah SE-Morris,,N/A,Student,Resolved,
+201,12/6/22 16:46:28,12/6/22 16:46:39,se-nmorris@seattleu.edu,Norah SE-Morris,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Other,Resolved,
+202,12/7/22 16:47:43,12/7/22 16:48:54,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Hardware,Personal,Staff,Resolved,User had questions about connecting their personal laptop to their work monitor and keyboard cleaning
+203,12/7/22 17:34:48,12/7/22 17:35:42,se-ianyaegbu@seattleu.edu,Ivan SE-Anyaegbu,Hardware,SU Owned,Faculty,Resolved,Over 10-year-old laptop returned for recycling.
+204,12/8/22 12:16:30,12/8/22 12:16:57,privamuller@seattleu.edu,Anna Muller,Password support/MFA,Personal,Student,Resolved,set up authentication app
+205,12/8/22 11:01:28,12/8/22 12:39:24,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+206,12/8/22 17:00:26,12/8/22 17:00:40,se-qbui@seattleu.edu,Quyen SE-Bui,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+207,12/9/22 15:28:18,12/9/22 15:28:43,se-nmai1@seattleu.edu,Cole SE-Mai,Can't connect to wifi,Personal,Student,Resolved,
+208,12/9/22 15:30:11,12/9/22 15:30:23,se-nmai1@seattleu.edu,Cole SE-Mai,Password support/MFA,N/A,Other,Resolved,
+209,12/6/22 10:36:45,12/13/22 14:06:33,jcortez1@seattleu.edu,Janelle Cortez,wifi,Personal,Staff,Resolved,
+210,12/14/22 15:13:05,12/14/22 15:13:22,pwetherby@seattleu.edu,Patricia Wetherby,Software,SU Owned,Faculty,Resolved,EA-Account Elevated
+211,12/16/22 7:09:00,12/19/22 13:43:50,jcortez1@seattleu.edu,Janelle Cortez,Software,SU Owned,Staff,Resolved,
+212,12/19/22 13:45:19,12/19/22 13:53:46,jcortez1@seattleu.edu,Janelle Cortez,pickup,SU Owned,Staff,Resolved,
+213,1/3/23 8:54:00,1/3/23 8:54:16,jcortez1@seattleu.edu,Janelle Cortez,Password support/MFA,SU Owned,Staff,Resolved,
+214,1/3/23 8:54:36,1/3/23 9:15:19,jcortez1@seattleu.edu,Janelle Cortez,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+215,1/3/23 9:15:23,1/3/23 9:25:14,jcortez1@seattleu.edu,Janelle Cortez,Password support/MFA,SU Owned,Staff,Resolved,
+216,1/3/23 10:05:58,1/3/23 10:33:25,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Device pick up,SU Owned,Staff,Resolved,
+217,1/3/23 10:33:26,1/3/23 10:54:17,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Follow up info ,N/A,Faculty,Resolved,
+218,1/3/23 9:27:23,1/3/23 15:08:07,jcortez1@seattleu.edu,Janelle Cortez,Software,Personal,Student,Resolved,
+219,1/4/23 9:11:17,1/4/23 9:12:26,pwetherby@seattleu.edu,Patricia Wetherby,OneDrive/Sharepoint,SU Owned,Faculty,Resolved,Asked how to use Sharepoint/OneDrive for sharing videos to external contacts without creating listserv
+220,1/4/23 10:23:30,1/4/23 10:30:11,se-esue@seattleu.edu,Ethan SE-Sue,Hardware,SU Owned,Faculty,Resolved,
+221,1/4/23 10:30:12,1/4/23 10:35:12,se-esue@seattleu.edu,Ethan SE-Sue,Wifi,Personal,Student,Resolved,
+222,1/6/23 10:45:02,1/6/23 10:45:24,se-qbui@seattleu.edu,Quyen SE-Bui,wifi,Personal,Student,Resolved,
+223,1/6/23 10:45:26,1/6/23 10:45:50,se-qbui@seattleu.edu,Quyen SE-Bui,Virtual Desktop,SU Owned,Student,Resolved,
+224,1/6/23 10:48:52,1/6/23 10:49:07,se-qbui@seattleu.edu,Quyen SE-Bui,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+225,1/6/23 12:59:21,1/6/23 12:59:24,se-qbui@seattleu.edu,Quyen SE-Bui,Change name on SU account,N/A,Faculty,Ticket opened in Jira ,ISD-56183
+226,1/6/23 14:42:36,1/6/23 14:43:15,privamuller@seattleu.edu,Anna Muller,Software,Personal,Student,Resolved,student couldn't open a canvas page because of cross-tracking
+227,1/6/23 15:32:52,1/6/23 15:33:10,privamuller@seattleu.edu,Anna Muller,Password support/MFA,Personal,Student,Resolved,56216
+228,1/9/23 9:56:46,1/9/23 9:57:05,se-esue@seattleu.edu,Ethan SE-Sue,Printing,Personal,Staff,Resolved,
+229,1/9/23 9:57:07,1/9/23 9:59:14,se-esue@seattleu.edu,Ethan SE-Sue,Software,N/A,Staff,Ticket opened in Jira ,"ISD-56272
+
+User wants to remotely connect to their office computer using their personal mac "
+230,1/4/23 9:12:37,1/9/23 14:21:07,jcortez1@seattleu.edu,Janelle Cortez,"General library question (ex: where something is, how do I check out a book, etc.)",Personal,Student,Resolved,
+231,1/9/23 14:26:20,1/9/23 14:26:26,se-mcruz3@seattleu.edu,Meryll SE-Cruz,"General library question (ex: where something is, how do I check out a book, etc.)",Personal,Other,Resolved,
+232,1/9/23 14:26:28,1/9/23 14:26:36,se-mcruz3@seattleu.edu,Meryll SE-Cruz,Printing,Personal,Student,Resolved,
+233,1/9/23 14:49:18,1/9/23 15:04:13,se-amuller@seattleu.edu,Anna SE-Muller,Hardware,Personal,Student,Resolved,Asking about connecting to GlobalProtect
+234,1/9/23 15:33:14,1/9/23 15:37:03,se-amuller@seattleu.edu,Anna SE-Muller,CRP/Device Set up,SU Owned,Faculty,Resolved,
+235,1/9/23 16:21:36,1/9/23 16:22:15,se-cmo@seattleu.edu,Cassandra SE-Mo,access office suite issue,SU Owned,Staff,Resolved,
+236,1/9/23 15:04:19,1/10/23 9:14:06,jcortez1@seattleu.edu,Janelle Cortez,Printing,SU Owned,Faculty,Ticket opened in Jira ,
+237,1/10/23 9:56:47,1/10/23 10:34:13,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Campus information request,N/A,Student,Resolved,
+238,1/10/23 10:34:26,1/10/23 10:56:57,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Software,N/A,Student,Resolved,
+239,1/10/23 11:19:50,1/10/23 11:20:29,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Software,SU Owned,Faculty,Resolved,
+240,1/10/23 11:34:05,1/10/23 12:13:52,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Printing,SU Owned,Student,Resolved,
+241,1/10/23 12:50:04,1/10/23 12:50:12,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Printing,Personal,Student,Resolved,
+242,1/10/23 13:03:35,1/10/23 13:03:56,se-nmai1@seattleu.edu,Cole SE-Mai,Printing,Personal,Student,Resolved,
+243,1/10/23 12:52:25,1/10/23 13:07:09,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+244,1/10/23 13:29:27,1/10/23 13:29:36,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Hardware,SU Owned,Staff,Resolved,
+245,1/10/23 13:29:37,1/10/23 13:29:47,se-tnguyen60@seattleu.edu,Tina SE-Nguyen,Printing,Personal,Staff,Resolved,
+246,1/10/23 13:30:51,1/10/23 13:31:02,se-nmai1@seattleu.edu,Cole SE-Mai,Printing,SU Owned,Faculty,Resolved,
+247,1/10/23 13:58:59,1/10/23 13:59:15,se-nmai1@seattleu.edu,Cole SE-Mai,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,,Resolved,
+248,1/10/23 14:06:37,1/10/23 14:06:44,se-nmai1@seattleu.edu,Cole SE-Mai,"General library question (ex: where something is, how do I check out a book, etc.)",N/A,Student,Resolved,
+249,1/10/23 15:35:29,1/10/23 15:42:51,se-nmai1@seattleu.edu,Cole SE-Mai,Hardware,N/A,Student,Resolved,
+250,1/10/23 15:42:53,1/10/23 15:43:10,se-nmai1@seattleu.edu,Cole SE-Mai,Hardware,SU Owned,Student,Ticket opened in Jira ,Ticket number ISD-56447
+251,1/10/23 16:37:42,1/10/23 16:37:55,se-nmai1@seattleu.edu,Cole SE-Mai,Batteries,N/A,Student,Resolved,
+252,1/10/23 16:37:56,1/10/23 16:38:22,se-nmai1@seattleu.edu,Cole SE-Mai,Stylus,N/A,Student,Resolved,
+253,1/10/23 16:38:29,1/10/23 16:50:04,se-nmai1@seattleu.edu,Cole SE-Mai,Software,Personal,Student,Resolved,
